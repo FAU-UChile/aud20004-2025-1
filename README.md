@@ -94,8 +94,8 @@ la nota final del curso tendrá esta ponderación:
 
 ## metodología
 
-- en las clases nos concentraremos en entender de forma conceptual y con ejercicios simples los contenidos principales del curso.
-- en ayudantías nos concentraremos en aplicar lo aprendido en clases en ejercicios más complejos y más extensos, donde les estudiantes harán los ejercicios propuestos en la pizarra, mientras que el ayudante liderará la discusión y resolverá dudas.
+- en las clases nos concentraremos en entender de forma conceptual y con ejercicios simples los contenidos principales del curso, con discusión de los conceptos entre estudiantes.
+- en ayudantías nos concentraremos en aplicar lo aprendido en clases en ejercicios más complejos y más extensos, donde les estudiantes harán los ejercicios propuestos en la pizarra, mientras que la persona ayudante liderará la discusión y resolverá dudas.
 
 ## bibliografía
 
