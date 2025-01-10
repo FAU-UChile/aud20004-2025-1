@@ -1,6 +1,5 @@
 # aud20004-2025-1
 
-
 - universidad: Universidad de Chile
 - facultad: Facultad de Arquitectura y Urbanismo
 - departamento: Departamento de Diseño
@@ -39,12 +38,12 @@
 - semana de receso entre 2024-05-19 y 2024-05-23
 
 ## calendario de evaluaciones
-<!-- 
-- control 01, 2024-08-30 viernes, en horario de ayudantía
-- control 02, 2024-10-11 viernes, en horario de ayudantía
-- control 03, 2024-10-25 viernes, en horario de ayudantía
-- control 04, 2024-11-22 viernes, en horario de ayudantía
-- trabajo de investigación, 2024-11-17 domingo 11:50pm, durante semana de trabajo autónomo -->
+
+- control 01, 2025-04-04 viernes, en horario de ayudantía
+- control 02, 2025-05-02 viernes, en horario de ayudantía
+- control 03, 2025-05-30 viernes, en horario de ayudantía
+- control 04, 2025-06-27 viernes, en horario de ayudantía
+- trabajo de investigación, 2025-06-22 domingo 11:50pm, durante semana de trabajo autónomo
 
 ## calendario detallado
 
@@ -77,7 +76,7 @@
 | [ayudantia-12](ayudantias/ayudantia-12/) | 2025-06-06 viernes      | unidad 8: electricidad y magnetismo           |
 | [clase-13](clases/clase-13/)             | 2025-06-12 jueves       | unidad 8: electricidad y magnetismo           |
 | [ayudantia-13](ayudantias/ayudantia-13/) | 2025-06-13 viernes      | unidad 8: electricidad y magnetismo           |
-| semana de trabajo autónomo               | 2025-06-16 / 2025-06-20 | estudiantes hacen su trabajo de investigación |
+| semana de trabajo autónomo               | 2025-06-16 / 2025-06-22 | estudiantes hacen su trabajo de investigación |
 | [clase-14](clases/clase-13/)             | 2025-06-26 jueves       | repaso unidad 8, retroalimentación trabajo    |
 | [ayudantia-14](ayudantias/ayudantia-13/) | 2025-06-27 viernes      | evaluación: control 4, unidad 8               |
 | cierre acta                              | 2025-07-18 viernes      | plazo máximo envío actas                      |
