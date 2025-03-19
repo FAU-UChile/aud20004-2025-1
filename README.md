@@ -85,17 +85,21 @@
 
 la nota final del curso tendrá esta ponderación:
 
-- controles individuales (60%):
-  - 4 controles
-  - cada control tiene 4 ejercicios, respondes 3, el peor se borra
-  - de los 4 controles, la peor nota se borra
-- asistencia (20%): la nota máxima 7.0 se logra con al menos un 90% de asistencia. para demostrar asistencia tienen que subir una foto de sus apuntes al foro de u-cursos, máximo una semana después de la clase o ayudantía. inasistencias justificadas por sistema de correo u-cursos cuentan como media asistencia.
+- controles (60%):
+  - 4 controles individuales
+  - cada control tiene 4 ejercicios, respondes 3, el peor se borra. si respondes más de 3, 3 puntos menos en la nota.
+  - de los 4 controles, la peor nota se borra, y con los 3 mejores se calcula el promedio.
 - trabajo de investigación (20%): investigación individual, realizado durante la semana de trabajo autónomo.
+- asistencia (20%): la nota máxima 7.0 se logra con al menos un 90% de asistencia y apuntes. para demostrar asistencia tienen que subir una foto de sus apuntes al foro de u-cursos, ANTES de la siguiente sesión. esto significa que después de cada clase tienen hasta la ayudantía siguiente para subir sus apuntes, y después de cada ayudantía tienen hasta la clase siguiente. inasistencias justificadas por sistema u-cursos o ucampus cuentan como media asistencia.
 
 ## metodología
 
 - en las clases nos concentraremos en entender de forma conceptual y con ejercicios simples los contenidos principales del curso, con discusión de los conceptos entre estudiantes.
 - en ayudantías nos concentraremos en aplicar lo aprendido en clases en ejercicios más complejos y más extensos, donde les estudiantes harán los ejercicios propuestos en la pizarra, mientras que la persona ayudante liderará la discusión y resolverá dudas.
+
+## comunicación
+
+toda comunicación vía u-cursos, con copia a todo el equipo docente (andrés y martín). si solamente envían un correo a una de las dos personas, NO será contestado.
 
 ## bibliografía
 
