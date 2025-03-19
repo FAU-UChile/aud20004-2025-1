@@ -51,11 +51,11 @@
 | :--------------------------------------- | :---------------------- | :-------------------------------------------- |
 | [clase-01](clases/clase-01/)             | 2025-03-13 jueves       | unidad 0: vectores y fuerzas                  |
 | [ayudantia-01](ayudantias/ayudantia-01/) | 2025-03-14 viernes      | unidad 0: vectores y fuerzas                  |
-| [clase-02](clases/clase-02/)             | 2025-03-20 jueves       | feriado, no hay clase                         |
+| [clase-02](clases/clase-02/)             | 2025-03-20 jueves       | unidad 1: cinemática en 1D y 2D               |
 | [ayudantia-02](ayudantias/ayudantia-02/) | 2025-03-21 viernes      | unidad 1: cinemática en 1D y 2D               |
-| [clase-03](clases/clase-03/)             | 2025-03-27 jueves       | unidad 1: cinemática en 1D y 2D               |
+| [clase-03](clases/clase-03/)             | 2025-03-27 jueves       | unidad 2: dinámica en 1D y 2D                 |
 | [ayudantia-03](ayudantias/ayudantia-03/) | 2025-03-28 viernes      | unidad 2: dinámica en 1D y 2D                 |
-| [clase-04](clases/clase-04/)             | 2025-04-03 jueves       | unidad 2: dinámica en 1D y 2D                 |
+| [clase-04](clases/clase-04/)             | 2025-04-03 jueves       | repaso unidades 0, 1, 2                       |
 | [ayudantia-04](ayudantias/ayudantia-04/) | 2025-04-04 viernes      | evaluación: control 1, unidades 0, 1, 2       |
 | [clase-05](clases/clase-05/)             | 2025-04-10 jueves       | unidad 3: energía y cantidad de movimiento    |
 | [ayudantia-05](ayudantias/ayudantia-05/) | 2025-04-11 viernes      | unidad 3: energía y cantidad de movimiento    |
