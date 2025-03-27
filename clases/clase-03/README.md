@@ -8,8 +8,8 @@ unidad 2: dinámica
 - diagrama de cuerpo libre
 - fuerza de peso
 - fuerzas de contacto: fuerza normal y fuerzas de roce
-- fuerza de tensión, cuerdas ideales y poleas
-- máquina de Atwood
+<!-- - fuerza de tensión, cuerdas ideales y poleas -->
+<!-- - máquina de Atwood -->
 
 ## definición de dinámica
 
@@ -94,7 +94,7 @@ en general, el coeficiente de roce estático es mayor que dinámico, por lo que 
 
 video con experimento: <https://www.youtube.com/watch?v=lzm0aSsSx8E>
 
-## fuerza de tensión, cuerdas ideales y poleas
+<!-- ## fuerza de tensión, cuerdas ideales y poleas
 
 fuerza de tensión es una fuerza transmitida por una cuerda ideal:
 
@@ -191,7 +191,7 @@ $$T = g \cdot \frac{m_1 \cdot m_2}{m_1 + m_2}$$
 
 notamos que si $m_1$ y $m_2$ son iguales, entonces la aceleración se hace cero, independiente del largo de la cuerda o la posición de las masas.
 
-como siempre, aceleración cero no implica velocidad cero, solamente implica velocidad constante.
+como siempre, aceleración cero no implica velocidad cero, solamente implica velocidad constante. -->
 
 ## referencias
 
