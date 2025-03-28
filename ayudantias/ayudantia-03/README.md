@@ -78,8 +78,8 @@ en un plano inclinado de $20°$ se abandona una caja de masa $500[g]$. el coefic
 
 ## ejercicio-02
 
-en un plano inclinado de $20°$ se abandona una caja de masa $1200[g]$. el coeficiente de rozamiento entre el plano y la caja es de $\mu = 0.25$.
+en un plano inclinado de $45°$ se abandona una caja de masa $1200[g]$. el coeficiente de rozamiento entre el plano y la caja es de $\mu = 0.25$.
 
 - calcule la fuerza normal
 - calcule la fuerza roce
-- calcule el tiempo que demora en alcanzar una velocidad de $5[Km/h]$
+- calcule el tiempo que demora en alcanzar una velocidad de $15[Km/h]$
