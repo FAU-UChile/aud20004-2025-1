@@ -76,7 +76,7 @@ en un plano inclinado de $20°$ se abandona una caja de masa $500[g]$. el coefic
 - calcule la aceleración de la caja
 
 
-## ejercicio-02
+## ejercicio-03
 
 en un plano inclinado de $45°$ se abandona una caja de masa $1200[g]$. el coeficiente de rozamiento entre el plano y la caja es de $\mu = 0.25$.
 
