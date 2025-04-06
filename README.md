@@ -62,9 +62,9 @@
 | [clase-06](clases/clase-06/)             | 2025-04-17 jueves       | unidad 4: dinámica y cinemática cuerpo rígido |
 | [ayudantia-06](ayudantias/ayudantia-06/) | 2025-04-18 viernes      | no hay ayudantía, por día feriado             |
 | [clase-07](clases/clase-07/)             | 2025-04-24 jueves       | unidad 5: calor y temperatura                 |
-| [ayudantia-07](ayudantias/ayudantia-07/) | 2025-04-25 viernes      | unidades 4 y unidad 5                           |
+| [ayudantia-07](ayudantias/ayudantia-07/) | 2025-04-25 viernes      | unidades 4 y unidad 5                         |
 | [clase-08](clases/clase-08/)             | 2025-05-01 jueves       | no hay clase, por día feriado                 |
-| [ayudantia-08](ayudantias/ayudantia-08/) | 2025-05-02 viernes      | unidades 4 y unidad 5                           |
+| [ayudantia-08](ayudantias/ayudantia-08/) | 2025-05-02 viernes      | unidades 4 y unidad 5                         |
 | [clase-09](clases/clase-09/)             | 2025-05-08 jueves       | repaso unidades 3, 4, 5                       |
 | [ayudantia-09](ayudantias/ayudantia-09/) | 2025-05-09 viernes      | evaluación: control 2, unidades 3, 4, 5       |
 | [clase-10](clases/clase-10/)             | 2025-05-15 jueves       | unidad 6: ondas y sonido                      |
