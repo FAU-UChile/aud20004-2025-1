@@ -41,7 +41,7 @@
 
 - control 01, 2025-04-04 viernes, en horario de ayudantía
 - control 02, 2025-05-09 viernes, en horario de ayudantía
-- control 03, 2025-05-06 viernes, en horario de ayudantía
+- control 03, 2025-06-06 viernes, en horario de ayudantía
 - control 04, 2025-06-27 viernes, en horario de ayudantía
 - trabajo de investigación, 2025-06-22 domingo 11:50pm, durante semana de trabajo autónomo
 
