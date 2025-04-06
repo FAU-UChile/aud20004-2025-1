@@ -40,8 +40,8 @@
 ## calendario de evaluaciones
 
 - control 01, 2025-04-04 viernes, en horario de ayudantía
-- control 02, 2025-05-02 viernes, en horario de ayudantía
-- control 03, 2025-05-30 viernes, en horario de ayudantía
+- control 02, 2025-05-09 viernes, en horario de ayudantía
+- control 03, 2025-05-06 viernes, en horario de ayudantía
 - control 04, 2025-06-27 viernes, en horario de ayudantía
 - trabajo de investigación, 2025-06-22 domingo 11:50pm, durante semana de trabajo autónomo
 
@@ -62,18 +62,18 @@
 | [clase-06](clases/clase-06/)             | 2025-04-17 jueves       | unidad 4: dinámica y cinemática cuerpo rígido |
 | [ayudantia-06](ayudantias/ayudantia-06/) | 2025-04-18 viernes      | no hay ayudantía, por día feriado             |
 | [clase-07](clases/clase-07/)             | 2025-04-24 jueves       | unidad 5: calor y temperatura                 |
-| [ayudantia-07](ayudantias/ayudantia-07/) | 2025-04-25 viernes      | unidad 4 y unidad 5                           |
+| [ayudantia-07](ayudantias/ayudantia-07/) | 2025-04-25 viernes      | unidades 4 y unidad 5                           |
 | [clase-08](clases/clase-08/)             | 2025-05-01 jueves       | no hay clase, por día feriado                 |
-| [ayudantia-08](ayudantias/ayudantia-08/) | 2025-05-02 viernes      | evaluación: control 2, unidades 3, 4, 5       |
-| [clase-09](clases/clase-09/)             | 2025-05-08 jueves       | unidad 6: ondas y sonido                      |
-| [ayudantia-09](ayudantias/ayudantia-09/) | 2025-05-09 viernes      | unidad 6: ondas y sonido                      |
-| [clase-10](clases/clase-10/)             | 2025-05-15 jueves       | unidad 7: luz y color                         |
-| [ayudantia-10](ayudantias/ayudantia-10/) | 2025-05-16 viernes      | unidad 7: luz y color                         |
+| [ayudantia-08](ayudantias/ayudantia-08/) | 2025-05-02 viernes      | unidades 4 y unidad 5                           |
+| [clase-09](clases/clase-09/)             | 2025-05-08 jueves       | repaso unidades 3, 4, 5                       |
+| [ayudantia-09](ayudantias/ayudantia-09/) | 2025-05-09 viernes      | evaluación: control 2, unidades 3, 4, 5       |
+| [clase-10](clases/clase-10/)             | 2025-05-15 jueves       | unidad 6: ondas y sonido                      |
+| [ayudantia-10](ayudantias/ayudantia-10/) | 2025-05-16 viernes      | unidad 6: ondas y sonido                      |
 | semana receso                            | 2025-05-19 / 2025-05-23 | sin clases, sin evaluaciones                  |
-| [clase-11](clases/clase-11/)             | 2025-05-29 jueves       | repaso y ejercicios unidades 5, 6, 7          |
-| [ayudantia-11](ayudantias/ayudantia-11/) | 2025-05-30 viernes      | evaluación: control 3, unidades 5, 6, 7       |
-| [clase-12](clases/clase-12/)             | 2025-06-05 jueves       | unidad 8: electricidad y magnetismo           |
-| [ayudantia-12](ayudantias/ayudantia-12/) | 2025-06-06 viernes      | unidad 8: electricidad y magnetismo           |
+| [clase-11](clases/clase-11/)             | 2025-05-29 jueves       | unidad 7: luz y color                         |
+| [ayudantia-11](ayudantias/ayudantia-11/) | 2025-05-30 viernes      | unidad 7: luz y color                         |
+| [clase-12](clases/clase-12/)             | 2025-06-05 jueves       | repaso y ejercicios unidades 6, 7             |
+| [ayudantia-12](ayudantias/ayudantia-12/) | 2025-06-06 viernes      | evaluación: control 3, unidades 6, 7          |
 | [clase-13](clases/clase-13/)             | 2025-06-12 jueves       | unidad 8: electricidad y magnetismo           |
 | [ayudantia-13](ayudantias/ayudantia-13/) | 2025-06-13 viernes      | unidad 8: electricidad y magnetismo           |
 | semana de trabajo autónomo               | 2025-06-16 / 2025-06-22 | estudiantes hacen su trabajo de investigación |
@@ -99,7 +99,7 @@ la nota final del curso tendrá esta ponderación:
 
 ## comunicación
 
-toda comunicación vía u-cursos, con copia a todo el equipo docente (andrés y martín). si solamente envían un correo a una de las dos personas, NO será contestado.
+toda comunicación vía u-cursos, con copia a todo el equipo docente (aarón y andrés). si solamente envían un correo a una de las dos personas, NO será contestado.
 
 ## bibliografía
 
