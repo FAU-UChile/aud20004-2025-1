@@ -63,7 +63,7 @@ un carro de metro de santiago de $3,700[kg]$ de masa se mueve en línea recta y 
 
 a) si su velocidad inicial fuera 120 km/h, y queremos que mientras frena avance solamente 30 metros, cuál es la aceleración que debe tener?
 
-b) si la velocidad inicial del carro es de metro fuera de 80 km/h, cuál es la fuerza necesaria para que frene en 5 segundos?
+b) si la velocidad inicial del carro de metro fuera de 80 km/h, cuál es la fuerza necesaria para que frene en 5 segundos?
 
 ## ejercicio-04 (3 puntos): sumatoria de fuerzas
 
