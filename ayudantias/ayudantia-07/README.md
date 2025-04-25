@@ -3,7 +3,7 @@
 
 ## ejercicio-01
 
-Hay un balancín como se muestra en la figura, si está en equilibrio ¿Cuál es la masa del niño de la derecha?
+Hay un balancín como se muestra en la figura, ¿Cuál es el torque resultante?
 
 ![](https://raw.githubusercontent.com/FAU-UChile/aud20004-2023-2/refs/heads/main/ayudantias/ayudantia-06/img/balancin-1.jpg)
 
