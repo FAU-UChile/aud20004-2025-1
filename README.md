@@ -74,11 +74,11 @@
 | [ayudantia-11](ayudantias/ayudantia-11/) | 2025-05-30 viernes      | unidad 7: luz y color                         |
 | [clase-12](clases/clase-12/)             | 2025-06-05 jueves       | repaso y ejercicios unidades 6, 7             |
 | [ayudantia-12](ayudantias/ayudantia-12/) | 2025-06-06 viernes      | evaluación: control 3, unidades 6, 7          |
-| [clase-13](clases/clase-13/)             | 2025-06-12 jueves       | unidad 8: electricidad y magnetismo           |
-| [ayudantia-13](ayudantias/ayudantia-13/) | 2025-06-13 viernes      | unidad 8: electricidad y magnetismo           |
+| [clase-13](clases/clase-13/)             | 2025-06-12 jueves       | no hay clase                                  |
+| [ayudantia-13](ayudantias/ayudantia-13/) | 2025-06-13 viernes      | instrucciones trabajo investigación           |
 | semana de trabajo autónomo               | 2025-06-16 / 2025-06-22 | estudiantes hacen su trabajo de investigación |
-| [clase-14](clases/clase-13/)             | 2025-06-26 jueves       | repaso unidad 8, retroalimentación trabajo    |
-| [ayudantia-14](ayudantias/ayudantia-13/) | 2025-06-27 viernes      | evaluación: control 4, unidad 8               |
+| [clase-14](clases/clase-13/)             | 2025-06-26 jueves       | repaso del semestre, retroalimentación trabajo|
+| [ayudantia-14](ayudantias/ayudantia-13/) | 2025-06-27 viernes      | evaluación: control 4, unidades 1-7           |
 | cierre acta                              | 2025-07-18 viernes      | plazo máximo envío actas                      |
 
 ## notas
