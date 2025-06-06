@@ -1,6 +1,6 @@
 # ayudantia-12
 
-viernes 6 de junio 2025
+viernes 06 de junio 2025
 
 ## control-03
 
@@ -27,26 +27,26 @@ pauta:
 - usa calculadora y los apuntes del curso
 - no olvides las unidades de medida!
 
-## ejercicio-01: velocidad del propagación (3 puntos)
+## ejercicio-01: velocidad de propagación de la luz(3 puntos)
 
-a) TODO
+a) si veo un color rojo, cuánto es su frecuencia en Hz? y cuál es la longitud de onda asociada? si esa frecuencia sube en un 10%, cuál es la nueva frecuencia y de qué color es?
 
-b) TODO
+b) si la longitud de onda de un color es de 520 nm, cuál es su frecuencia en Hz? y de qué color es?
 
-## ejercicio-02: TODO (3 puntos)
+## ejercicio-02: evento audiovisual en la atmósfera de la tierra (3 puntos)
 
-a) TODO
+a) un trueno ocurre en una nube a 2.7 km de la superficie de la tierra. cuánto es el tiempo que demora en viajar EL SONIDO a mis oídos si yo estoy en la superficie de la tierra?
 
-b) TODO
+b) un trueno ocurre en una nube a 2.7 km de la superficie de la tierra. cuánto es el tiempo que demora en viajar LA LUZ a mis ojos si yo estoy en la superficie de la tierra?
 
-## ejercicio-03: ondas mecánicas (3 puntos)
+## ejercicio-03: velocidad de propagación del sonido (3 puntos)
 
-a) TODO
+a) si una longitud de onda de un sonido es de 0.5m, cuál es frecuencia en Hz? y cuál es la nota aproximada de ese sonido?
 
-b) TODO
+b) si en la superficie del planeta Marte una onda tiene una longitud de 0.75m y una frecuencia de 410 HZ, cuál es la velocidad de propagación del sonido en Marte? es más rápido el sonido en Marte o en la Tierra?
 
-## ejercicio-04: ondas electromagnéticas (3 puntos)
+## ejercicio-04: evento audiovisual en la superficie de la tierra (3 puntos)
 
-a) TODO
+a) veo a un chinchinero a cinco cuadras, y cada cuadra mide 107 metros. cuánto es el tiempo que demora en viajar la LUZ a mis ojos?
 
-b) TODO
+b) si sé que el SONIDO de un organillero se demoró 3.9 segundos en llegar a mis oídos, a qué distancia está de mí?
