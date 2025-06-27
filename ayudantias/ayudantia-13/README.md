@@ -59,3 +59,11 @@ a)  volviendo a Ivo la chinchilla, en esta oportunidad va a su trabajo en el ser
 - si debe recorrer 5 hectómetros, cuál será el tiempo que tardará? asume velocidad inicial de 0[m/s].
 
 b) Ivo se cansó de ir caminando a su trabajo, asi que se pompró un Lada Niva, que es capaz de acelerar a $4 [m/s^2]$, cuanto demorará en llegar a su trabajo si la distancia esta ves es 2 kilometros?
+
+## ejercicio-03 (3 puntos): energía
+
+a) por unos temitas despidieron a Ivo del SII, por lo que ahora trabaja haciendo entregas, en esta oportunidad debe entregar un balón de gas de 15 kilogramos a la cima del cerro san cristobal que está a 280 metos de altura respecto a la entrada, cuanta energia transfiere para realizar este trabajo?
+
+b) como lo despidieron tuvo que vender su auto, por lo que demora exactamente 3 días en subir, qué potencia tiene Ivo?
+
+## 
