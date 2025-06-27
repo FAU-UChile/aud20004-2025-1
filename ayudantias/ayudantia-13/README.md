@@ -66,4 +66,10 @@ a) por unos temitas despidieron a Ivo del SII, por lo que ahora trabaja haciendo
 
 b) como lo despidieron tuvo que vender su auto, por lo que demora exactamente 3 días en subir, qué potencia tiene Ivo?
 
-## 
+## ejercicio-04 (3 puntos): luz y sonido
+
+a Ivo se le cayó el balón a la mitad del recorrido, y nos pide ayuda gritando y haciendo señales con un puntero láser, de acuerdo a ello responda:
+
+a) si estamos en la entrada del cerro cuánto es el tiempo que demora en viajar la LUZ del láser a mis ojos?
+
+b) si sé que el SONIDO de los gritos se demoró 5 segundos en llegar a mis oídos, a qué distancia está Ivo de mí?
